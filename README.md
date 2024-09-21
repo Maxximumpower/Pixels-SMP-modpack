@@ -15,5 +15,5 @@ If you have any issues, ask me on the discord
 
 > Modpack can't find Java
 
-Check the "Java installation" setting under the "edit" tab of the pack, if this is not selected, make sure it points to your install of Java 21.
+Check the "Java installation" setting under the "edit" tab of the pack, if this is not selected, make sure it points to your install of Java 21 (bin/javaw.exe).
 

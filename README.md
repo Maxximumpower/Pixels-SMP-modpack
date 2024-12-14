@@ -8,7 +8,7 @@ If you have any issues, ask me on the discord
 2. Extract to C:\Program Files\Java
 3. Open [Prism Launcher](https://prismlauncher.org/)
 4. Right-click -> Create Instance -> Import -> Paste the following
-` https://github.com/Maxximumpower/Pixels-SMP-modpack/releases/download/1.21.1/Maxx_1.21.1.zip `
+`https://github.com/Maxximumpower/Pixels-SMP-modpack/releases/download/1.21.1v2/Maxx_1.21.1.zip`
 5. Launch and play
 
 ### FAQ
